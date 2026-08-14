@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Tacticalassasin2
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-HTML-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Tacticalassasin2&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Tacticalassasin2 Header Banner" />
+
+  <h1>🚀 Tacticalassasin2</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-HTML-e34c26?style=for-the-badge" alt="Language: HTML" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/tacticalassasin2"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Tacticalassasin2** delivers a fast, responsive, and cross-platform browser experience built with **HTML** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `HTML`
@@ -32,179 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Tacticalassasin2 - Play Online for Free
-
-## Overview
-Play Tacticalassasin2 online for free. Unblocked and available on all devices. Experience the best Tacticalassasin2 gameplay now!
-
-### Game Details & Guide
-Tactical Assassin 2: A Comprehensive Guide
-
-
-
-
-Game Overview
-
-
-
-Tactical Assassin 2 is a real-time strategy game developed by Devsolutions Studio, released in 2013 for mobile devices. The game offers a unique blend of espionage, stealth, and combat gameplay, where players take on the role of an assassin tasked with infiltrating enemy organizations and eliminating high-priority targets.
-
-
-
-How to Play
-
-
-
-To get started, players must navigate through levels, utilizing their assassin skills to evade detection and reach their objectives. The game features a simple yet intuitive control scheme:
-• Tap or swipe to move your character
-• Hold or drag to perform actions (e.g., shoot, hack)
-• Use the mini-map to track enemy movements
-
-The objective is clear: eliminate targets while avoiding detection by the enemy. Players can choose from various abilities and gadgets to aid in their mission.
-
-
-
-Tips and Tricks for Success
-
-
-
-Here are some valuable tips to help you succeed in Tactical Assassin 2:
-• Familiarize yourself with the mini-map to track enemy movements
-• Use your abilities wisely, as each one has a cooldown period
-• Employ stealth tactics to evade detection and reach objectives undetected
-• Develop a strategy to tackle tough levels by breaking them down into smaller sections
-
-
-
-Why You Should Play It
-
-
-
-Tactical Assassin 2 offers an engaging experience that combines:
-• Unique gameplay mechanics (stealth, espionage, combat)
-• Realistic graphics and sound effects
-• A wide range of characters with unique abilities and strengths
-• Challenging levels that require strategy and quick thinking
-
-Whether you're a fan of real-time strategy games or enjoy the thrill of stealthy action, Tactical Assassin 2 is an excellent choice. With its addictive gameplay and engaging mechanics, it's no wonder this game has garnered a dedicated community.
-
-
-
-Game Overview
-
-
-
-As mentioned earlier, Tactical Assassin 2 offers a unique blend of espionage, stealth, and combat gameplay. The game features:
-• 5 playable characters with unique abilities
-• A wide range of levels with varying difficulty and objectives
-• An extensive character customization system
-• Realistic graphics and sound effects
-
-
-
-Tips and Tricks for Success
-
-
-
-As mentioned earlier, here are some valuable tips to help you succeed in Tactical Assassin 2:
-• Familiarize yourself with the mini-map to track enemy movements
-• Use your abilities wisely, as each one has a cooldown period
-• Employ stealth tactics to evade detection and reach objectives undetected
-• Develop a strategy to tackle tough levels by breaking them down into smaller sections
-
-
-
-Why You Should Play It
-
-
-
-Tactical Assassin 2 offers an engaging experience that combines:
-• Unique gameplay mechanics (stealth, espionage, combat)
-• Realistic graphics and sound effects
-• A wide range of characters with unique abilities and strengths
-• Challenging levels that require strategy and quick thinking
-
-Whether you're a fan of real-time strategy games or enjoy the thrill of stealthy action, Tactical Assassin 2 is an excellent choice. With its addictive gameplay and engaging mechanics, it's no wonder this game has garnered a dedicated community.
-
-
-
-Game Overview
-
-
-
-As mentioned earlier, Tactical Assassin 2 offers a unique blend of espionage, stealth, and combat gameplay. The game features:
-• 5 playable characters with unique abilities
-• A wide range of levels with varying difficulty and objectives
-• An extensive character customization system
-• Realistic graphics and sound effects
-
-
-
-Tips and Tricks for Success
-
-
-
-As mentioned earlier, here are some valuable tips to help you succeed in Tactical Assassin 2:
-• Familiarize yourself with the mini-map to track enemy movements
-• Use your abilities wisely, as each one has a cooldown period
-• Employ stealth tactics to evade detection and reach objectives undetected
-• Develop a strategy to tackle tough levels by breaking them down into smaller sections
-
-
-
-Why You Should Play It
-
-
-
-Tactical Assassin 2 offers an engaging experience that combines:
-• Unique gameplay mechanics (stealth, espionage, combat)
-• Realistic graphics and sound effects
-• A wide range of characters with unique abilities and strengths
-• Challenging levels that require strategy and quick thinking
-
-Whether you're a fan of real-time strategy games or enjoy the thrill of stealthy action, Tactical Assassin 2 is an excellent choice. With its addictive gameplay and engaging mechanics, it's no wonder this game has garnered a dedicated community.
-
-
-
-Game Overview
-
-
-
-As mentioned earlier, Tactical Assassin 2 offers a unique blend of espionage, stealth, and combat gameplay. The game features:
-• 5 playable characters with unique abilities
-• A wide range of levels with varying difficulty and objectives
-• An extensive character customization system
-• Realistic graphics and sound effects
-
-
-
-Tips and Tricks for Success
-
-
-
-As mentioned earlier, here are some valuable tips to help you succeed in Tactical Assassin 2:
-• Familiarize yourself with the mini-map to track enemy movements
-• Use your abilities wisely, as each one has a cooldown period
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle), Unity WebGL
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
